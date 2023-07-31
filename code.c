@@ -23,6 +23,27 @@ STD::STRING(); 0.0.0: 0.0.0.0
 
   (
 
-  "OS": ['Windows Server 2008 R2 Data Center Edition ']
+  "OS": ['"Windows Server 2008 R2 Data Center Edition"']
+  "RAM": ["1550 MB"]
+  "Disk": ["1.688 TB"]
 
   uv.LightTextForProfile("#50C878")
+
+import openai
+  class MessageBox("input");
+
+if user.@ts("@aplieie-programmer") open-dm("to") -user.that.@ts.@aplieie-programmer 
+  
+
+  {?
+
+  std::out("%lvl") = [0f571109f3eed4ac75]
+
+
+  #4f1c()
+  
+  
+
+
+
+  
