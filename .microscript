@@ -1,3 +1,4 @@
 mov eax "0x66A" : 10 x mov dword 4 to 1x4416
 mov eax dword('"05122x55132"'): to 08x116b
+mov dwr
 
