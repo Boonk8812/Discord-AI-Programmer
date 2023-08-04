@@ -1,1 +1,28 @@
+if else {
+  3 < 8
 
+}
+
+
+(
+build.src("Gradle x86_64")
+  script._Build();
+
+  gradle.json
+
+  #include <gradle.yml>
+    #include <gradle.json>
+
+  
+)
+
+ [
+
+if os == MicrosoftWindowsNT.Kernel
+
+   else {
+
+     run.script("In the architecture that the CPU of the computer has.");
+   
+   
+ ]
