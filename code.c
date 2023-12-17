@@ -1,4 +1,4 @@
-std::cout("ERROR 666: bot - ERR666 - Glitch666F: Hack0=%÷×[$;31[$%<×[:<%×"÷8<×"8<%×÷"÷9+<"%[÷×<"÷[<"%÷>+";÷×9×;"÷")
+
   std::cout(": version :")
    std::cout("Bot version 0.0.0-01")
     std::cout("rundll32.exe crashed with a unknown exception. (0x04748579173b6)")
@@ -23,7 +23,7 @@ STD::STRING(); 0.0.0: 0.0.0.0
 
   (
 
-  "OS": ['"Windows Server 2008 R2 Data Center Edition"']
+  "OS": ["Windows Server 2008 R2 Data Center Edition"]
   "RAM": ["1550 MB"]
   "Disk": ["1.688 TB"]
 
